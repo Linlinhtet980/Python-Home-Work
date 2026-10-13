@@ -1,4 +1,4 @@
 .qodo/
 __pycache__/
 *.pyc
-
+.vscode/
